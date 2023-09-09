@@ -1,1 +1,1 @@
-helm chart for pushing to bitnami.com repo
+helm chart for angular8
