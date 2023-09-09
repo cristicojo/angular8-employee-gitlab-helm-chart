@@ -1,1 +1,1 @@
-# angular8-employee-gitlab-hem-chart
+helm chart for pushing to bitnami.com repo
